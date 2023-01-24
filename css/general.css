@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(224, 235, 166);
+}
+h1 {
+    font-family: 'Trebuchet MS';
+    color:blue;
+}
+p {
+    font-weight: bold;
+}
+#banner {
+    width: 250px;
+}
